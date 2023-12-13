@@ -97,3 +97,35 @@ Which is an option on the service
 We have running that generates images"
 11/04/23,4,"Working on option to change profile picture
 Based on images generated "
+,,
+11/07/2023,5,"Worked on correct training
+Settings"
+11/09/2023,5,"Implemented training data
+Requirements such as 
+Name change and file format
+To automatically update when 
+Uploaded to S3"
+11/10/2023,5,"Few additional touches to UI
+Such as loading bar for 
+Model training "
+,,
+11/14/2023,4,"Added custom templates for
+Image generation such as
+Cowboy, Jedi, and Astronaut"
+11/17/2023,4,"Created Delete endpoint where
+It will log the user off and 
+Destroy the current session"
+11/18/2023,4,"Set up confirmation endpoint 
+Corresponding with the details
+Set up from postman from past 
+Testing"
+11/19/2023,4,"Fixed bug that came from 
+custom templates, where it would
+Have a delay between calls, and
+Would cal each of them one 
+Call late"
+,,
+11/22/2023,,"Sanitized inputs for 
+Image generation"
+11/23/2023,,
+11/26/2023,,
